@@ -1,0 +1,21 @@
+.article-body {
+  font-family: 'Source Sans 3', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  width: 62.5%;
+  margin: 10px auto 118px auto;
+  padding: 24px 16px 24px 16px;
+}
+
+pre {
+  margin-top: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.user-info-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 46px;
+}
